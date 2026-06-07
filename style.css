@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    position: absolute;
+    top: 150px;
+    left: 250px;
+    font-size: 50px;
+    text-align: center;
+    background-color: white;
+    padding-top: 30px;
+    padding-right: 70px;
+    padding-bottom: 30px;
+    padding-left: 70px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-between;
+}
